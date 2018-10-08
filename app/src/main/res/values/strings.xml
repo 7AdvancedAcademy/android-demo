@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">SevenDemo</string>
+    <string name="email_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="message_hint">Type a message ...</string>
+</resources>

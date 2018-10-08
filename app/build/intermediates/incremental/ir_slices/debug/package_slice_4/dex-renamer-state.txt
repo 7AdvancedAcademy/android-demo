@@ -1,0 +1,4 @@
+#Mon Oct 08 15:50:10 WAT 2018
+base.0=/Users/sevenacademy/AndroidStudioProjects/SevenDemo/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
